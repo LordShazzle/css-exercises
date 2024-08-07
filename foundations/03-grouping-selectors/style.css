@@ -4,10 +4,10 @@
 }
 
 .two{
-    background-color: rgb(202, 202, 6);
+    background-color: rgb(240, 240, 7);
 }
 
 .one, .two{
-    font-size: 28px;
+    font-size: 27px;
     fonts font-family: "Helvetica Neue", "Times New Roman", sans-serif;
 }
