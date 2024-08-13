@@ -20,9 +20,9 @@ body {
 
 .three {
   background: peachpuff;
-  border: 32px solid brown;
+  border: 3px solid brown;
   width: 200px;
   /* CHANGE ME */
-  padding: 0px;
-  margin-left: 0px;
+  padding: 32px;
+  margin-left: auto;
 }
