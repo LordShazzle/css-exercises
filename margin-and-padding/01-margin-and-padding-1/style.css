@@ -13,7 +13,7 @@ body {
 
 .two {
   background: rgb(82, 180, 212);
-  border: 3px solid purple;
+  border: 3px solid rgb(169, 73, 169);
   /* CHANGE ME */
   margin-bottom: 48px;
 }
