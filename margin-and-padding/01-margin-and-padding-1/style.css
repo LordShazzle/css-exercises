@@ -12,14 +12,14 @@ body {
 }
 
 .two {
-  background: lightblue;
+  background: rgb(82, 180, 212);
   border: 3px solid purple;
   /* CHANGE ME */
   margin-bottom: 48px;
 }
 
 .three {
-  background: peachpuff;
+  background: rgb(247, 195, 149);
   border: 3px solid brown;
   width: 200px;
   /* CHANGE ME */
